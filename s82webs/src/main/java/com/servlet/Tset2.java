@@ -6,7 +6,7 @@ public class Tset2 {
 
 
 
-        System.out.println("太难了");
+        System.out.println("太难了 ");
     }
 
 }
