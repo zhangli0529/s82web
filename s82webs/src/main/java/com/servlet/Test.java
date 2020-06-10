@@ -2,6 +2,6 @@ package com.servlet;
 
 public class Test {
     public static void main(String[] args) {
-        System.out.println("阿巴阿巴阿巴");
+        System.out.println("aaa");
     }
 }
