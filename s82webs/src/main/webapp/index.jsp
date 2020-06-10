@@ -1,6 +1,6 @@
 <html>
 <body>
 <jsp:forward page=""></jsp:forward>
-<center><a class="color-red">zhanghuali</a></center>
+<center><a class="color-red">giao!!</a></center>
 </body>
 </html>
