@@ -1,9 +1,7 @@
 <html>
 <body>
 <jsp:forward page=""></jsp:forward>
-<center><a class="color-red">陶子like boy !  he   love  eat 翔！he havn't mothey!</a></center>
-<h1> 现世包青天  陶子，因为 he is black  man</h1>
-<h4>一群憨批</h4>
-  <h1> 傻陶是个憨憨</h1>
+<center><a class="color-red">磊磊最帅，好爱你！</a></center>
+
 </body>
 </html>
