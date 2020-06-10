@@ -6,8 +6,7 @@ public class Servlet {
 
     }
 
-    public void liussuming(){
-        System.out.println("刘素明学习小组");
-
+    public static void xxiejiaxin(String[] args) {
+        System.out.println("谢家新学习小组");
     }
 }
