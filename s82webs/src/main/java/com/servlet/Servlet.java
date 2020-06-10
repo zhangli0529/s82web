@@ -5,6 +5,10 @@ public class Servlet {
         System.out.println("张礼学习小组");
 
     }
+    public void nanshenzu(){
+        System.out.println("赵晓航学习小组");
+
+    }
 
     public static void xxiejiaxin(String[] args) {
         System.out.println("谢家新学习小组");
