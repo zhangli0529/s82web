@@ -1,7 +1,10 @@
 package com.servlet;
 
 public class Test {
-    public static void main(String[] args) {
-        System.out.println("simon");
+    public static void main(String[] args)
+    {
+        System.out.println("eeeeeee");
+        System.out.println("阿汤本汤");
+        System.out.println("atang2");
     }
 }
