@@ -14,4 +14,8 @@ public class Servlet {
     public static void xxiejiaxin(String[] args) {
         System.out.println("谢家新学习小组");
     }
+
+    public static void main(String[] args) {
+        System.out.println("喻赛学习小组");
+    }
 }
