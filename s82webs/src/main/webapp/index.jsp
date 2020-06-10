@@ -1,6 +1,6 @@
 <html>
 <body>
 <jsp:forward page=""></jsp:forward>
-<center><a class="color-red">陶陶好帅啊！Love you</a></center>
+<center><a class="color-red">陶陶</a></center>
 </body>
 </html>
