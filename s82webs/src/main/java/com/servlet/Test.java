@@ -1,8 +1,8 @@
 package com.servlet;
 
 public class Test {
-    public static void main(String[] args) {
-        System.out.println("小叮当");
-
+    public static void main(String[] args)
+    {
+        System.out.println("汪金龙渣男");
     }
 }
