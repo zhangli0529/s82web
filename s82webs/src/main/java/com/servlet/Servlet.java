@@ -13,13 +13,17 @@ public class Servlet {
         System.out.println("易陶学习小组");
     }
 
+    public void tyy(){
+        System.out.println("tyy");
+    }
 
     public static void xxiejiaxin(String[] args) {
         System.out.println("谢家新学习小组");
+
+
     }
 
     public static void main(String[] args) {
         System.out.println("喻赛学习小组");
-        System.out.println("谭钰颖学习小组");
     }
 }
