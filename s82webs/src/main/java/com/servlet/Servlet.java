@@ -9,6 +9,9 @@ public class Servlet {
         System.out.println("赵晓航学习小组");
 
     }
+    public void yitao(){
+        System.out.println("易陶学习小组");
+    }
 
 
     public static void xxiejiaxin(String[] args) {
